@@ -1,0 +1,68 @@
+/* Position Property Start */
+
+.position-absolute {
+  position: absolute !important;
+}
+
+.position-relative {
+  position: relative !important;
+}
+
+.position-fixed {
+  position: fixed !important;
+}
+
+.position-sticky {
+  position: sticky !important;
+}
+
+.top-2 {
+  top: 2% !important;
+}
+
+.top-4 {
+  top: 4% !important;
+}
+
+.top-6 {
+  top: 6% !important;
+}
+
+.bottom-2 {
+  bottom: 2% !important;
+}
+
+.bottom-4 {
+  bottom: 4% !important;
+}
+
+.bottom-6 {
+  bottom: 6% !important;
+}
+
+.left-2 {
+  left: 2% !important;
+}
+
+.left-4 {
+  left: 4% !important;
+}
+
+.left-6 {
+  left: 6% !important;
+}
+
+.right-2 {
+  right: 2% !important;
+}
+
+.right-4 {
+  right: 4% !important;
+}
+
+.right-6 {
+  right: 6% !important;
+}
+
+
+/* Position Property End */

@@ -1,0 +1,27 @@
+/* Cursor Property Start */
+
+.cursor-none {
+  cursor: none;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.cursor-alias {
+  cursor: alias;
+}
+
+.cursor-move {
+  cursor: move;
+}
+
+.cursor-zoom-in {
+  cursor: zoom-in;
+}
+
+.cursor-zoom-out {
+  cursor: zoom-out;
+}
+
+/* Cursor Property End */

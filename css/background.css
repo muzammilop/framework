@@ -1,0 +1,99 @@
+/* Background Property Start */
+
+.bg-none {
+  background: none;
+}
+
+.bg-reapeat-none {
+  background-repeat: none;
+}
+
+.bg-repeat-x {
+  background-repeat: repeat-x;
+}
+
+.bg-repeat-y {
+  background-repeat: repeat-y;
+}
+
+.bg-fixed {
+  background-attachment: fixed;
+}
+
+.bg-scroll {
+  background-attachment: scroll;
+}
+
+.bg-primary {
+  background-color: var(--lightblue) !important;
+}
+
+.bg-danger {
+  background-color: var(--lightred) !important;
+}
+
+.bg-warning {
+  background-color: var(--lightyellow) !important;
+}
+
+.bg-success {
+  background-color: var(--lightgreen) !important;
+}
+
+.bg-info {
+    background-color: var(--lightaqua) !important;
+}
+
+.bg-dark {
+  background-color: var(--black) !important;
+}
+
+.bg-light {
+  background-color: var(--light) !important;
+}
+
+.bg-top {
+  background-position: top;
+}
+
+.bg-bottom {
+  background-position: bottom;
+}
+
+.bg-left {
+  background-position: left;
+}
+
+.bg-right {
+  background-position: right;
+}
+
+.bg-center {
+    background-position: center;
+}
+
+.bg-top-left {
+    background-position: top left;
+}
+
+bg-top-right {
+    background-position: top right;
+}
+
+.bg-bottom-left {
+    background-position: bottom left;
+}
+
+.bg-bottom-right {
+    background-position: bottom right;
+}
+
+.bg-cover {
+    background-size: cover;
+}
+
+.bg-contain {
+    background-size: contain;
+}
+
+/* Background Property End */

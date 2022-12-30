@@ -1,0 +1,94 @@
+/* Text Properties Start */
+
+.text-primary {
+  color: var(--lightblue) !important;
+}
+
+.text-danger {
+  color: var(--lightred) !important;
+}
+
+.text-warning {
+  color: var(--lightyellow) !important;
+}
+
+.text-success {
+  color: var(--lightgreen) !important;
+}
+
+.text-info {
+    color: var(--lightaqua) !important;
+}
+
+.text-dark {
+  color: var(--black) !important;
+}
+
+.text-light {
+  color: var(--light) !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.text-justify {
+    text-align: justify !important;
+}
+
+.td-none {
+    text-decoration: none;
+}
+
+.td-underline {
+    text-decoration: underline !important;
+}
+
+
+.td-primary {
+  text-decoration-color: var(--lightblue) !important;
+}
+
+.td-danger {
+  text-decoration-color: var(--lightred) !important;
+}
+
+.td-warning {
+  text-decoration-color: var(--lightyellow) !important;
+}
+
+.td-success {
+  text-decoration-color: var(--lightgreen) !important;
+}
+
+.td-info {
+    text-decoration-color: var(--lightaqua) !important;
+}
+
+.td-dark {
+  text-decoration-color: var(--black) !important;
+}
+
+.td-light {
+  text-decoration-color: var(--light) !important;
+}
+
+.text-2 {
+    font-size: 2rem !important;
+}
+
+.text-4 {
+    font-size: 4rem !important;
+}
+
+.text-6 {
+    font-size: 6rem !important;
+}
